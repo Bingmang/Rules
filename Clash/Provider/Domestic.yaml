@@ -74,6 +74,10 @@ payload:
   - DOMAIN,cdn.lilyemby.com
   - DOMAIN,tx.lilyemby.com
 
+  # > Emby (Terminus+)
+  - DOMAIN,b1.zdz.plus
+  - DOMAIN,b3.zdz.plus
+
   - DOMAIN-SUFFIX,10010.com
   - DOMAIN-SUFFIX,10086.cn
   - DOMAIN-SUFFIX,12306.cn
